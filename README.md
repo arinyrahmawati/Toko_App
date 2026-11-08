@@ -59,3 +59,24 @@ mvn clean javafx:run
 - Data produk disimpan di memori, jadi hilang saat aplikasi ditutup.
 - Ukuran jendela mengikuti desain di Scene Builder (461 x 400).
 - Gaya tampilan (warna, tombol, tabel) diatur di styles/app.css.
+
+## Tampilan Aplikasi
+
+### Halaman Tambah Produk
+
+
+![Halaman Tambah Produk](screenshots/form.png)
+
+
+
+### Halaman Daftar Produk
+
+
+![Halaman Daftar Produk](screenshots/daftar.png)
+
+
+
+### Halaman Detail Produk
+
+
+![Halaman Detail Produk](screenshots/detail.png)
